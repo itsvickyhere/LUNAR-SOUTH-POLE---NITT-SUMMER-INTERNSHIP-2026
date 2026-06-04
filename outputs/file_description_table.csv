@@ -1,0 +1,13 @@
+filename,instrument,role,width_px,height_px,bands,res_x_m,res_y_m,nodata,min,max,mean,status
+lola_downsampled_25m.tif,LOLA,accessibility,3639,3639,1,25.0,25.0,-3.3999999521443642e+38,-8111.0,3929.6001,-1038.3022,OK
+lola_downsampled_59m.tif,LOLA,accessibility,1516,1516,1,60.0,60.0,-3.3999999521443642e+38,-8097.2607,3918.5,-1039.5721,OK
+lola_matched_to_lroc_5m_clean.tif,LOLA,accessibility,18195,18195,1,5.0,5.0,-3.3999999521443642e+38,-8112.0,3978.0,-1037.5748,OK
+lroc_5m_float32_clean.tif,LROC,context,18195,18195,1,5.0,5.0,-3.3999999521443642e+38,0.0166,1.1373,0.0838,OK
+lroc_shadow_mask_final.tif,LROC,risk,18195,18195,1,5.0,5.0,255.0,0.0,1.0,0.3083,OK
+dfsar_cpr_mosaic_circle.tif,DFSAR,science_value,3639,3639,1,25.0,25.0,-9999.0,0.0078,2.9259,0.2982,OK
+dfsar_cpr_mosaic_coverage.tif,DFSAR,confidence,3639,3639,1,25.0,25.0,255.0,0.0,1.0,0.5878,OK
+minirf_s1_pju_mosaic_circle.tif,Mini-RF,science_value,1536,1536,1,59.225,59.225,-9999.0,0.0008,10.4211,0.085,OK
+minirf_s1_pju_mosaic_coverage.tif,Mini-RF,confidence,1536,1536,1,59.225,59.225,255.0,0.0,1.0,0.8527,OK
+m3_mosaic_group2_july13_14_allbands_280m.tif,M3,science_context,325,325,85,280.0,280.0,-9999.0,-9998.999,-9998.999,-9998.999,OK
+gravil_anom_l900_native_10km_circular.tif,GRAIL,context,9,9,1,10000.0,10000.0,-32767.0,-241.7927,268.3,52.3248,OK
+gravil_boug_l900_native_10km_circular.tif,GRAIL,context,9,9,1,10000.0,10000.0,-32767.0,53.398,122.7969,87.7603,OK

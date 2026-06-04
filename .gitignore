@@ -1,0 +1,5 @@
+raster_layers/
+outputs/*.npy
+
+*.tif
+*.tiff
